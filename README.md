@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Teach Easy](https://github.com/chingu-voyages/Teach-Easy)
 
-- 👯 I’m looking to collaborate on **OSS**
+- 👯 I’m looking to collaborate on **Open Source Software**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marksist300?tab=repositories](https://github.com/marksist300?tab=repositories)
 
-- 💬 Ask me about **Projects, Javascript, FE, BE**
+- 💬 Ask me about **Projects, Javascript, Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
