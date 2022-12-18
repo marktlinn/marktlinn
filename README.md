@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">A passionate fullstack developer from the U.K., living in Italy</h3>
 
-- 🔭 I’m currently working on [Teach Easy](https://github.com/chingu-voyages/Teach-Easy)
+- 🔭 I’m currently working on [Town Square](https://github.com/marksist300/TownSquare)
 
 - 👯 I’m looking to collaborate on **Open Source Software**
 
