@@ -7,7 +7,7 @@ Full-stack software developer
 Passionate about bringing ideas, designs and technology to life, in order to help solve problems and provide value to peoples' lives.
 
 🌍  I'm based in Italy <br/>
-🚀  I'm currently working on VanLifeVueRouter<br/>
+🚀  I'm currently working on Zarathustra (a dev tool for chrome with ai integration)<br/>
 🧠  I'm learning Go 🐿️<br/>
 🤝  I'm open to collaborating on Open Source Software & community projects<br/>
 
