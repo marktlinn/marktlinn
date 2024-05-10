@@ -6,7 +6,6 @@ Full-stack software developer
 
 Passionate about bringing ideas, designs and technology to life, in order to help solve problems and provide value to peoples' lives.
 
-🚀  I'm currently working on Zarathustra (a dev tool for Chrome with ai integration)<br/>
 🤝  I'm open to collaborating on Open Source Software & community projects<br/>
 
 # 💻 Tech Stack:
